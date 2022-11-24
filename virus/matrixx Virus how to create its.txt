@@ -1,0 +1,13 @@
+  Matrixx Virus code{copy full}
+
+
+
+@echo off 
+color 0a
+title ---------------Matrixx Virus---------------
+:top
+echo %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random% 
+goto top
+
+
+firstly save it .txt file exetionand than after save as it .bat exetention and run its
